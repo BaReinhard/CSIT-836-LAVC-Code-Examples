@@ -1,0 +1,21 @@
+{
+  "name": "cpp-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"g++ -o test.out test.cpp cstack.cpp -std=c++11 && ./test.out",    
+    "main":"g++ -o main.out main.cpp cstack.cpp -std=c++11 && ./main.out",
+    "build":"rm  -rf ./*.zip && zip -r -X reinhard-brett-assignment2.zip ./*.h ./*.cpp ./*.cpp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaReinhard/CPP-VSCode-Template.git"
+  },
+  "author": "Brett Reinhard <brett@reinhards.us> (http://brettreinhard.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaReinhard/CPP-VSCode-Template/issues"
+  },
+  "homepage": "https://github.com/BaReinhard/CPP-VSCode-Template#readme"
+}
