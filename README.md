@@ -6,3 +6,5 @@
 ## The content is uploaded to help further other students learning by being able to view other peers code and coding styling. It also serves as a reference to look back on in case any fundamentals or implementation details is forgotten.
 
 ## This code is open source, but anyone who takes this information and uses it and claims it to be there own takes full responsibility of their actions and the following consequences.
+
+# LINCENSED WITH THE ZLIB/libpng license
